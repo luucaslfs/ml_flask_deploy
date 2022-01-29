@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+mlflask/
 eggs/
 .eggs/
 lib/
